@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jbouyea3
+- 👋 Hi, I’m @jbouyea
 -  I’m interested in becoming a entry or mid-level data analyst
 -  I’m currently learning the tools of SQL,Python,Power-BI, and Tableau
 - I’m looking to collaborate on projects to further me career and gain even more experience
